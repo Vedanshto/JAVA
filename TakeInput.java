@@ -12,6 +12,6 @@ public class TakeInput {
 
 
         System.err.println("Your Entered Number Is : " + n);
-
+        sc.close(); // alwase close it 
     }
 }
